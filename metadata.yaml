@@ -1,0 +1,30 @@
+_repo: A-Hundred-and-Seventy-Chinese-Poems_42290
+_version: 0.1.0
+alternative_title: 170 Chinese Poems
+contributor:
+  translator:
+    agent_name: Waley, Arthur
+    alias: Schloss, Arthur David
+    birthdate: 1889
+    deathdate: 1966
+    gutenberg_agent_id: '6752'
+    url: http://www.gutenberg.org/2009/agents/6752
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Waley
+covers:
+- cover_type: archival
+  image_path: 42290-h/images/cover.jpg
+description: ''
+gutenberg_issued: '2013-03-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42290'
+  lccn: '19004021'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PL'
+- !lcsh 'Chinese poetry -- Translations into English'
+title: A Hundred and Seventy Chinese Poems
+url: http://www.gutenberg.org/ebooks/42290
