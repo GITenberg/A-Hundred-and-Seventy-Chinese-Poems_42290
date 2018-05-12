@@ -14,6 +14,8 @@ covers:
 - cover_type: archival
   image_path: 42290-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42290#A-Hundred-and-Seventy-Chinese-Poems
 gutenberg_issued: '2013-03-10'
 gutenberg_type: Text
 identifiers:
